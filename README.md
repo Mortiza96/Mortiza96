@@ -1,7 +1,5 @@
-### Hi there 👋
+![messagif](https://user-images.githubusercontent.com/76552017/218339341-7064a0c8-cfb1-44ba-b687-cfb0b475488b.gif)
 
-
-![messagif](https://user-images.githubusercontent.com/76552017/218338863-53ff1e05-b993-41da-ad5a-edef16aa7175.gif)
 
 📊I  am an economist and jurist who is passionate about solving data-driven problems encompassing them with economic and legal consequences. I work in Insurances trying to bring fresh and innovative perspectives focusing on contributing to the technological revolution of finance! 
 
